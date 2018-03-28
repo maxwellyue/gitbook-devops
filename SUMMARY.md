@@ -5,4 +5,5 @@
 * [CMDB与应用配置管理](chapter1.md)
 * [应用驱动的CMDB](ying-yong-qu-dong-de-cmdb.md)
 * [CMDB的误解与重构](cmdbde-lei-qu.md)
+* [小米运维平台和监控](xiao-mi-yun-wei-ping-tai-he-jian-kong.md)
 
