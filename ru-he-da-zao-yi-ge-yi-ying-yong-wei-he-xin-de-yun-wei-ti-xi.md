@@ -13,7 +13,7 @@
 
 
 ---
-内容来源
+内容来源：
 [如何打造一个以应用为核心的运维体系](http://www.yunweipai.com/archives/21888.html)
 
 
