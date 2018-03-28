@@ -7,4 +7,5 @@
 * [CMDB的误解与重构](cmdbde-lei-qu.md)
 * [小米运维平台和监控](xiao-mi-yun-wei-ping-tai-he-jian-kong.md)
 * [如何打造一个以应用为核心的运维体系](ru-he-da-zao-yi-ge-yi-ying-yong-wei-he-xin-de-yun-wei-ti-xi.md)
+* [XXOps实践：持续发布和部署](xxopsshi-jian-ff1a-chi-xu-fa-bu-he-bu-shu.md)
 
