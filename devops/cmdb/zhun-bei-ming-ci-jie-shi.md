@@ -1,6 +1,4 @@
-# 名词解释
-
----
+# 准备：名词解释
 
 [ITIL](https://zh.wikipedia.org/wiki/信息技术基础架构库)  
 信息技术基础架构库（Information Technology Infrastructure Library，一般情况下使用其缩写ITIL）。
@@ -39,12 +37,7 @@ Accelerated Mobile Pages（简称AMP，意为“加速移动页面”）是Googl
 
 使用AMP的网页可快速读取并显示，用户（网页访问者）在点击链接后无需等待即可看到页面内容。根据Google发布的数据，网页若是访问速度过慢，多数用户会放弃并关闭网页\[8\]，快速加载的页面对网站制作者也有利。
 
-
-
-
 OWT
 
-英文全称: Organisation, Work & Technology
-组织、工作和技术
-
+英文全称: Organisation, Work & Technology 组织、工作和技术
 

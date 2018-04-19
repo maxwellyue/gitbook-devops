@@ -1,4 +1,4 @@
-# Introduction
+# CMDB是什么
 
 CMDB，Configuration Management DataBase，配置管理的意思。
 
